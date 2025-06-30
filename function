@@ -1,0 +1,9 @@
+#include<stdio.h>
+void printName(){
+    printf("hello how are you");
+    
+}
+int main() {
+    printName();
+    printf("\nall is well");
+}
